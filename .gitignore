@@ -1,0 +1,13 @@
+# Arquivos proprietários fornecidos separadamente pela UFSC
+SetupFull.msi
+KeyStore.reg
+*.msi
+*.reg
+
+# Arquivos gerados durante diagnóstico e execução
+*.log
+*.eap
+*.eapx
+*.feap
+.wine/
+
