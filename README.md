@@ -39,6 +39,14 @@ Não use `sudo ./install-linux.sh`. O próprio script pedirá sua senha quando o
 
 Na primeira instalação, o Winetricks baixa aproximadamente 910 MB para preparar as bibliotecas XML exigidas pelo EA 14.
 
+## Código de ativação
+
+Quando o Enterprise Architect solicitar o código de ativação, use o código disponibilizado no Moodle:
+
+```text
+8BSX
+```
+
 ## Outras distribuições
 
 Em distribuições diferentes das listadas acima, instale antes:
