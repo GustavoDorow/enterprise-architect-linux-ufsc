@@ -85,3 +85,7 @@ O instalador associa arquivos `.eap`, `.eapx` e `.feap` ao programa.
 `SetupFull.msi` e `KeyStore.reg` não estão neste repositório e não devem ser publicados. Obtenha-os somente por meios autorizados pela UFSC.
 
 Enterprise Architect é um produto da Sparx Systems. Este projeto não distribui o programa nem concede licença de uso.
+
+## Licença
+
+O código deste repositório está disponível sob a [licença MIT](LICENSE). A licença não se aplica ao Enterprise Architect, ao instalador da Sparx Systems nem aos arquivos fornecidos pela UFSC.
