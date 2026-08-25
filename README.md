@@ -10,7 +10,7 @@ O script baixa e instala as dependências automaticamente nestes sistemas:
 
 - Arch Linux, Omarchy, EndeavourOS, CachyOS e derivados
 - Fedora
-- Ubuntu e Debian
+- Ubuntu, Debian e derivados
 
 Clone o repositório:
 
@@ -41,11 +41,7 @@ Na primeira instalação, o Winetricks baixa aproximadamente 910 MB para prepara
 
 ## Código de ativação
 
-Quando o Enterprise Architect solicitar o código de ativação, use o código disponibilizado no Moodle:
-
-```text
-8BSX
-```
+Quando o Enterprise Architect solicitar o código de ativação, use o código disponibilizado no Moodle.
 
 ## Outras distribuições
 
@@ -82,7 +78,7 @@ O instalador associa arquivos `.eap`, `.eapx` e `.feap` ao programa.
 
 ## Aviso
 
-`SetupFull.msi` e `KeyStore.reg` não estão neste repositório e não devem ser publicados. Obtenha-os somente por meios autorizados pela UFSC.
+`SetupFull.msi` e `KeyStore.reg` não estão neste repositório. Obtenha-os somente por meios autorizados pela UFSC.
 
 Enterprise Architect é um produto da Sparx Systems. Este projeto não distribui o programa nem concede licença de uso.
 
